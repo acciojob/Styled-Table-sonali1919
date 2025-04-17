@@ -1,1 +1,18 @@
-/* your code */
+thead{
+	background-color:blue;
+}
+table{
+	border:1px solid grey;
+	border-radius:5px;
+}
+th{
+	color:white;
+}
+.odd{
+	background-color:white;
+}
+.even{
+	background-color:grey;
+}
+	
+	/* your code */
